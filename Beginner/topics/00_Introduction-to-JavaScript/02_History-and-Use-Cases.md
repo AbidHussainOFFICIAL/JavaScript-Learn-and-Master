@@ -7,7 +7,7 @@
 | 1995 | JavaScript was created in just 10 days by **Brendan Eich** at Netscape |
 | 1997 | Standardized as **ECMAScript (ES)** |
 | 2009 | **Node.js** released — JavaScript on the server |
-| 2015 | Major update: **ES6** (let/const, arrow functions, promises, classes) |
+| 2015 | Major update: **ES6** (var/const, arrow functions, promises, classes) |
 | 2020+ | Continued evolution with features like optional chaining, nullish coalescing, top-level await |
 
 JavaScript has grown from a small scripting language to a full-fledged application development tool.
