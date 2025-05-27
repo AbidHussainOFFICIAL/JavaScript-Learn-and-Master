@@ -1,6 +1,6 @@
 // Month Switch Statement
 
-var month = parseInt(prompt("Enter month number:")); // 8
+var month = parseInt(prompt("Enter month number:"));
 
 switch (month) {
     case 1: console.log("January"); break;
